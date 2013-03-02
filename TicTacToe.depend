@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1358909854 source:c:\documents and settings\flo\my documents\l\tictactoe\main.cpp
+	<iostream>
+	"board.h"
+	"Player.h"
+	"Game.h"
+
+1358912094 c:\documents and settings\flo\my documents\l\tictactoe\board.h
+
+1358920197 source:c:\documents and settings\flo\my documents\l\tictactoe\board.cpp
+	"board.h"
+	<iostream>
+	"Game.h"
+	"Player.h"
+
+1358912125 source:c:\documents and settings\flo\my documents\l\tictactoe\player.cpp
+	"Player.h"
+
+1358912094 c:\documents and settings\flo\my documents\l\tictactoe\player.h
+	<string>
+
+1358912094 c:\documents and settings\flo\my documents\l\tictactoe\game.h
+	"Player.h"
+	"board.h"
+
+1358919426 source:c:\documents and settings\flo\my documents\l\tictactoe\game.cpp
+	"Game.h"
+	<iostream>
+
